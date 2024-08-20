@@ -1,0 +1,15 @@
+.img1{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img2{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../Images/3.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img3{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/4.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
